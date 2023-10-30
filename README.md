@@ -12,5 +12,3 @@
 # Password for the repository : "st2o1"
 
 # Be carefull please.
-
-rar file hash : 0B2250E1F077C96D299216E80A52CF2B8542F25A219FFA1F48EF9E79814B1766
