@@ -11,4 +11,4 @@
 
 # Password for the repository : "st2o1"
 
-# Be carefull please.
+# Please be carefull.
